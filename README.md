@@ -6,7 +6,8 @@ making it in my final thesis.
 There is a lot more code written which is not in the thesis, but most of it is not very interesting, this github 
 is for the potentially interesting results and code which did not make it into the final thesis.
 
-
+Also, the plotting code and similar is relatively simple and easily reproducible and is therefore not included here or in the 
+thesis.
 
 ## Alternative methods of computing $Q(n)$
 
